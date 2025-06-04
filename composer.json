@@ -1,5 +1,5 @@
 {
-    "name": "trntv/sitemaped",
+    "name": "deanpress/sitemaped",
     "description": "PHP Sitemap abstraction library",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,6 @@
     },
     "require": {
         "ext-dom": "@stable",
-        "php": "^8.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.1"
